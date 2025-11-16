@@ -1,2 +1,2 @@
-ABCDEFG
-bbbb
+abc
+xyz
